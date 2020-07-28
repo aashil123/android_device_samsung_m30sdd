@@ -1,0 +1,60 @@
+# BLUETOOTH
+lib64/libaptX_encoder.so
+
+# CAMERA
+lib/libcamerahardwareinterface.so
+
+# GPS
+etc/init/init.gpscommon.rc
+
+# OMX
+etc/somxreg.conf
+lib/libsomx263dsw.so
+lib/libsomx264dsw.so
+lib/libsomxaacd.so
+lib/libsomxadpcmd.so
+lib/libsomxamrd.so
+lib/libsomxcmn.so
+lib/libsomxcore.so
+lib/libsomxflacd.so
+lib/libsomxhevcdsw.so
+lib/libsomxmp3d.so
+lib/libsomxmp4vdsw.so
+lib/libsomxmp43d.so
+lib/libsomxnaace.so
+lib/libsomxvc1dsw.so
+lib/libsomxvp8d.so
+lib/libsomxwmad.so
+lib/libsomxwmv7d.so
+lib/libsomxwmv8d.so
+lib64/libsomx263dsw.so
+lib64/libsomx264dsw.so
+lib64/libsomxaacd.so
+lib64/libsomxadpcmd.so
+lib64/libsomxamrd.so
+lib64/libsomxcmn.so
+lib64/libsomxcore.so
+lib64/libsomxflacd.so
+lib64/libsomxhevcdsw.so
+lib64/libsomxmp3d.so
+lib64/libsomxmp4vdsw.so
+lib64/libsomxmp43d.so
+lib64/libsomxnaace.so
+lib64/libsomxvc1dsw.so
+lib64/libsomxvp8d.so
+lib64/libsomxwmad.so
+lib64/libsomxwmv7d.so
+lib64/libsomxwmv8d.so
+
+# SAMSUNG_SLSI_CONFIGSTORE
+lib/vendor.samsung_slsi.hardware.configstore-utils.so
+lib/vendor.samsung_slsi.hardware.configstore@1.0.so
+lib64/vendor.samsung_slsi.hardware.configstore-utils.so
+lib64/vendor.samsung_slsi.hardware.configstore@1.0.so
+
+# SAMSUNG_SLSI_HWC
+lib/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0.so
+lib64/vendor.samsung_slsi.hardware.ExynosHWCServiceTW@1.0.so
+
+### WIDEVINE
+lib64/vendor.samsung.hardware.security.widevine.keyprovisioning@1.0.so
